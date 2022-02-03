@@ -16,7 +16,7 @@ POST /users
 
 - To retrieve all the users
 
-```xl
+```xml
 
 Get /users
 
@@ -38,6 +38,8 @@ Get/ users/1
 Delete /user/ (id)
 
 ```
+
+---
 
 # POST FOR A USER
 
