@@ -1,4 +1,4 @@
-# RestAPI
+# RestFul Service
 
 ## CREATE USER
 
